@@ -7,4 +7,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 
 ## Link da minha apresentação
+Ao clicar nesse link vc verá este lindo projeto! <br>
+Link: https://nicolasmelim.github.io/portfolio/
 
